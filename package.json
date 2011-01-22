@@ -1,0 +1,21 @@
+{
+  "name" : "prowl",
+  "version" : "0.0.1",
+  "author" : { 
+		"name" : "Gregoire Lejeune",
+		"mail" : "gregoire.lejeune@free.fr"
+	},
+  "description" : "Wrapprer for prowl, http://prowl.weks.net/.",
+  "homepage" : "http://algorithmique.net/",
+  "contributors" : [ 
+    "Gregoire Lejeune (http://algorithmique.net)",
+  ],
+  "repository" : { 
+    "type" : "git",
+    "url" : "http://github.com/glejeune/node-prowl.git"
+  },
+  "keywords" : ["prowl", "dot"],
+  "engines" : ["node >= 0.3.5"],
+  "directories" : { "lib" : "./lib" },
+  "main" : "lib/prowl"
+}
