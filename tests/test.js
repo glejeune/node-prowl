@@ -1,4 +1,4 @@
-var sys = require('sys'),
+var util = require('util'),
 	Prowl = require('../lib/prowl').Prowl;
 
 var p = new Prowl('123456789012345678901234567890');
