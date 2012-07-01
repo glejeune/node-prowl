@@ -6,6 +6,9 @@ Copyright (C) 2011 Gregoire Lejeune
 
 == CHANGELOG
 
+=== 0.0.3 :
+* fixed some calls to "sys"
+
 === 0.0.2 :
 * package.json correction
 
